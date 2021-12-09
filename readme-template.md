@@ -9,7 +9,7 @@ For this project, I created an agent-based carbon cycling model that demonstrate
 - Dr. Ann Russel
 
 **Gala Case:** 
-- (https://www.learngala.com/cases/tropical-rainforest-carbon-cycling)
+- https://www.learngala.com/cases/tropical-rainforest-carbon-cycling
 
 **Tools Used:** 
 - Insight Maker
@@ -24,5 +24,5 @@ For this project, I created an agent-based carbon cycling model that demonstrate
 - Readibilty aspect of the model/story option (making sure that the story mode explains directions clearly and users understand what is being asked of them)
 
 **Current draft/mockup link:** 
-- (https://insightmaker.com/insight/238995/Entire-Rainforest-Carbon-Cycling-Model-with-Sliders)
+- https://insightmaker.com/insight/238995/Entire-Rainforest-Carbon-Cycling-Model-with-Sliders
 
