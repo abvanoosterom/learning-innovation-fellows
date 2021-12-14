@@ -6,7 +6,7 @@ _[Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)_
 For this project, I created an agent-based carbon cycling model that demonstrates the flow of carbon within a rainforest. It leads users through multiple scenarios that teach them how carbon moves through this environment. Users can interact with the model by using sliders to change variables and running simulations to see the effect of changes. The main goal of the model is that it will be able to be used in a classroom setting to help students gain a deeper understanding. Students can also create their own model with the help of a tutorial if they so choose.
 
 **Faculty Advisor:**
-- Dr. Ann Russel
+- Dr. Ann Russell
 
 **Gala Case:** 
 - https://www.learngala.com/cases/tropical-rainforest-carbon-cycling
